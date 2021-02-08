@@ -17,8 +17,6 @@ def s_gon_root(s,x):
         else:
             R=t-1
     return R
-
-#fermat ngon theorem
     
 def sgon_check_string(s,l):
     c=0
